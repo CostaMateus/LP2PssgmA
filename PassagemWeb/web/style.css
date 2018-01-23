@@ -1,0 +1,23 @@
+body {
+    width: 980px;
+    height: auto;
+    background: #FFFAFA;//url(https://www.tintasboavista.com.br/image/cache/data/basf_branco%20neve-500x500.jpg) repeat;
+    margin: auto;
+    text-align: center;
+}
+
+#tab {
+   display: inline-block;
+}
+
+form {
+    width: 300px;
+}
+
+#div2 {
+    width: 20px;
+}
+
+table tr td{
+    padding: 10px;
+}
